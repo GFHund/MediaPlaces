@@ -1,0 +1,17 @@
+﻿<Window x:Class="MediaPlaces.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Menu x:Name="menuBar" DockPanel.Dock="Top"   Height="20" VerticalAlignment="Top">
+            <MenuItem x:Name="menuItemFile" Header="_File">
+                <MenuItem x:Name="menuItemOpen" Header="_Open" Click="MenuItem_Open"/>
+                <MenuItem x:Name="menuItemExit" Header="_Exit" Click="MenuItem_Exit"/>
+            </MenuItem>
+            <MenuItem x:Name="menuItemHelp" Header="_Help">
+                <MenuItem x:Name="menuItemAbout" Header="About" Click="MenuItem_About"/>
+            </MenuItem>
+        </Menu>
+        <DataGrid x:Name="MediaList" HorizontalAlignment="Left" Margin="10,25,0,0" VerticalAlignment="Top" Height="285" Width="497"/>
+    </Grid>
+</Window>

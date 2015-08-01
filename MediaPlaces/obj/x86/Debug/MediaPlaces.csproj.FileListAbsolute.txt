@@ -1,0 +1,16 @@
+C:\Users\Philipp\documents\visual studio 2013\Projects\MediaPlaces\MediaPlaces\bin\x86\Debug\MediaPlaces.exe.config
+C:\Users\Philipp\documents\visual studio 2013\Projects\MediaPlaces\MediaPlaces\bin\x86\Debug\MediaPlaces.exe
+C:\Users\Philipp\documents\visual studio 2013\Projects\MediaPlaces\MediaPlaces\bin\x86\Debug\MediaPlaces.pdb
+C:\Users\Philipp\documents\visual studio 2013\Projects\MediaPlaces\MediaPlaces\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\Philipp\documents\visual studio 2013\Projects\MediaPlaces\MediaPlaces\bin\x86\Debug\System.Data.SQLite.xml
+C:\Users\Philipp\documents\visual studio 2013\Projects\MediaPlaces\MediaPlaces\obj\x86\Debug\MainWindow.baml
+C:\Users\Philipp\documents\visual studio 2013\Projects\MediaPlaces\MediaPlaces\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Philipp\documents\visual studio 2013\Projects\MediaPlaces\MediaPlaces\obj\x86\Debug\App.g.cs
+C:\Users\Philipp\documents\visual studio 2013\Projects\MediaPlaces\MediaPlaces\obj\x86\Debug\MediaPlaces_MarkupCompile.cache
+C:\Users\Philipp\documents\visual studio 2013\Projects\MediaPlaces\MediaPlaces\obj\x86\Debug\MediaPlaces.g.resources
+C:\Users\Philipp\documents\visual studio 2013\Projects\MediaPlaces\MediaPlaces\obj\x86\Debug\MediaPlaces.Properties.Resources.resources
+C:\Users\Philipp\documents\visual studio 2013\Projects\MediaPlaces\MediaPlaces\obj\x86\Debug\MediaPlaces.csproj.GenerateResource.Cache
+C:\Users\Philipp\documents\visual studio 2013\Projects\MediaPlaces\MediaPlaces\obj\x86\Debug\MediaPlaces.exe
+C:\Users\Philipp\documents\visual studio 2013\Projects\MediaPlaces\MediaPlaces\obj\x86\Debug\MediaPlaces.pdb
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\MediaPlaces\MediaPlaces\obj\x86\Debug\MediaPlaces.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Documents\Visual Studio 2013\Projects\MediaPlaces\MediaPlaces\bin\x86\Debug\System.Data.SQLite.pdb

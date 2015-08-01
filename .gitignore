@@ -1,0 +1,3 @@
+*.sqlite
+MediaPlaces/bin/*
+MediaPlaces/obj/*
