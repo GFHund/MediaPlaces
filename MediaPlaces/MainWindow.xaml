@@ -8,6 +8,9 @@
                 <MenuItem x:Name="menuItemOpen" Header="_Open" Click="MenuItem_Open"/>
                 <MenuItem x:Name="menuItemExit" Header="_Exit" Click="MenuItem_Exit"/>
             </MenuItem>
+            <MenuItem x:Name="menuItemEdit" Header="_Edit">
+                <MenuItem x:Name="menuItemAddMedia" Header="_Add Media" Click="menuItemAddMedia_Click"/>
+            </MenuItem>
             <MenuItem x:Name="menuItemHelp" Header="_Help">
                 <MenuItem x:Name="menuItemAbout" Header="About" Click="MenuItem_About"/>
             </MenuItem>
